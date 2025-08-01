@@ -1,2 +1,2 @@
-# BtechFirstProject
+# BTechFirstRepo
 My FIrst Project 
